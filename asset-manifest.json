@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ANDi-Software-Solutions/static/css/main.87c89676.css",
+    "main.js": "/ANDi-Software-Solutions/static/js/main.7510e945.js",
+    "static/media/logo.png": "/ANDi-Software-Solutions/static/media/logo.cbce4c8fee0613e30acf.png",
+    "index.html": "/ANDi-Software-Solutions/index.html",
+    "main.87c89676.css.map": "/ANDi-Software-Solutions/static/css/main.87c89676.css.map",
+    "main.7510e945.js.map": "/ANDi-Software-Solutions/static/js/main.7510e945.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87c89676.css",
+    "static/js/main.7510e945.js"
+  ]
+}
