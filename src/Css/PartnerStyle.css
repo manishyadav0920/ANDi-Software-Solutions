@@ -1,0 +1,48 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.partner{
+    width: 100%;
+    /* background-color: yellow; */
+    margin: 1em 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+h1{
+    text-align: center;
+}
+
+.partnercard{
+    width: 25%;
+    text-align: center;
+    box-shadow: 0 0 3px #000;
+    padding: .5em;
+    /* justify-content: space-between; */
+}
+
+@media screen and (max-width:990px) {
+    .partner{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .partnercard{
+        width: 40%;
+        margin-bottom: 2em;
+        margin-right: 1em;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .partner{
+        flex-direction: column;
+    }
+
+    .partnercard{
+        width: 70%;
+        margin: 1em;
+    }
+}
